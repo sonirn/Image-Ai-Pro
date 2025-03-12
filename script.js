@@ -1,4 +1,4 @@
-const API_KEY = "YOUR_DEEPSEEK_JANUS_PRO_API_KEY";  // Replace with your API key
+const API_KEY = "sk-4bd6535dbe254768be64b798cb53e623";  // Replace with your API key
 const API_URL = "https://api.deepseek.com/v1/generate"; // API endpoint
 
 const generateBtn = document.getElementById("generateBtn");
